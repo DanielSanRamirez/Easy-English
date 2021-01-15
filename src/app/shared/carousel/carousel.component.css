@@ -1,10 +1,6 @@
 .imgCarrucel {
-    height: 600px;
-    width: auto;
-
     display:block;
-    margin:auto;
-    
+    margin:auto;  
 }
 
 #carousel {
@@ -16,3 +12,7 @@
     background-color: #C0C0C0;
 }
 
+.carousel-inner img{
+    width: 100%;
+    height: 100%;
+}
